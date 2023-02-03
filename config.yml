@@ -25,12 +25,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author: Mourad Mtouaa
+author_bio: Hi, my name is Mourad Mtouaa. I am a software engineer :D
+author_email: "mtouaa.mourad@gmail.com"
 author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_website_url: "https://mouradxmt.github.io"
+typewrite-text: I am someone who codes as full time job, and do it for fun too :D .
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -72,9 +72,9 @@ author_project_details:
 
 # social links
 twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
+github_username:  mouradxmt
+facebook_username: mtouaamourad
+linkedin_username: mtouaamourad
 behance_username: johndoe
 instagram_username: johndoe
 medium_username: johndoe
