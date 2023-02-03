@@ -107,7 +107,7 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     tilt (2.0.11)
     trollop (2.9.9)
-    tzinfo (2.0.5)
+    tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2022.7)
       tzinfo (>= 1.0.0)
