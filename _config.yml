@@ -1,5 +1,5 @@
 title: Mourad Mtouaa
-subtitle: Mourad s portfolio.
+subtitle: Mourad's portfolio.
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -28,7 +28,7 @@ author_logo: profile.png
 author: Mourad Mtouaa
 author_bio: Hi, my name is Mourad Mtouaa. I am a software engineer :D
 author_email: "mtouaa.mourad@gmail.com"
-author_location: India
+author_location: Morocco
 author_website_url: "https://mouradxmt.github.io"
 typewrite-text: I am someone who codes as full time job, and do it for fun too :D .
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
@@ -71,12 +71,12 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
+twitter_username: mouradxmt
 github_username:  mouradxmt
 facebook_username: mtouaamourad
 linkedin_username: mtouaamourad
 behance_username: johndoe
-instagram_username: johndoe
+instagram_username: mouradxmt
 medium_username: johndoe
 telegram_username: johndoe
 dribbble_username: johndoe
@@ -95,7 +95,7 @@ mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50b
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: mtouaamourad@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: devlopr
